@@ -28,6 +28,16 @@ body{
 .box h4{
     color: #40E0D0;
 }
+p{
+    color: white;
+    position: absolute;
+    margin-bottom: 0;
+    top: 91vh;
+    left: 41%;
+}
+i{
+    color: red;
+}
 .box input[type = "tel"], .box input[type ="password"]{
     border: 0;
     background: none;
